@@ -21,9 +21,21 @@ const ErrorBoundaryComponent = ({
         );
       }
 
-      return <ServerErrorView />;
+      return (
+        <ServerErrorView
+          error={error}
+          props={props}
+          resetErrorBoundary={resetErrorBoundary}
+        />
+      );
     } else {
-      return <ServerErrorView />;
+      return (
+        <ServerErrorView
+          error={error}
+          props={props}
+          resetErrorBoundary={resetErrorBoundary}
+        />
+      );
     }
   }, [error, props, resetErrorBoundary]);
   return <>{renderError()}</>;

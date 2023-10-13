@@ -17,3 +17,20 @@
 .cover-image-card li {
   text-align: left !important;
 }
+
+.ant-input-group-addon {
+  border: none !important;
+}
+
+.hide-on-mobile {
+  @media (max-width: 767.99px) {
+    display: none;
+  }
+}
+
+
+.hide-on-desktop {
+  @media (min-width: 780px) {
+    display: none;
+  }
+}

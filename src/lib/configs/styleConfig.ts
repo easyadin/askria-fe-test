@@ -9,6 +9,9 @@ const AntThemeConfig: ThemeConfig = {
       collapsedIconSize: 18,
       itemMarginBlock: 10,
     },
+    Input: {
+      addonBg: 'white',
+    },
   },
 };
 

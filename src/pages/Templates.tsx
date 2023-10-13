@@ -1,8 +1,6 @@
 import { Button, Col, Flex, Layout, Row } from 'antd';
 import { Header, Content } from 'antd/es/layout/layout';
 import { PlusOutlined } from '@ant-design/icons';
-import { useNavigate } from 'react-router-dom';
-import { ROUTES } from '../constants/routes';
 import Title from 'antd/es/typography/Title';
 import { useGetTemplates } from '../services/template/template.queries';
 import { useMemo } from 'react';
@@ -27,7 +25,7 @@ const Templates = () => {
           </Button>
         </Flex>
       </Header>
-      <Content style={{ padding: 10 }}>
+      <Content style={{ padding: 16 }}>
         <Row gutter={[16, 16]}>
           {templates?.map((app, i) => (
             <Col md={8} lg={6} xl={4} key={i} style={{ width: '100%' }}>

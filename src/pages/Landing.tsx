@@ -1,7 +1,7 @@
-import { Layout } from 'antd';
+import Candidates from './Candidates';
 
 const Landing = () => {
-  return <Layout></Layout>;
+  return <Candidates/>
 };
 
 export default Landing;

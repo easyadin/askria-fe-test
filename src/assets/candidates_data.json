@@ -1,0 +1,6718 @@
+[
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Brown",
+          "emailId": "david.taylor@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2018,
+              "to": 2021,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2012,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Mid-Level",
+          "New Grad"
+      ],
+      "skills": [
+          "React",
+          "C#",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "827253d8-0a99-4fb4-9865-4ea40bcaf61a"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Jones",
+          "emailId": "david.davis@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2012,
+              "to": 2022,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2001,
+              "to": 2022,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "e6a519ef-3c7a-455f-8b5a-b996f49f3b50"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Wilson",
+          "emailId": "david.smith@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2006,
+              "to": 2021,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2018,
+              "to": 2023,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "3a8ecbc4-75ad-4bfe-81a0-44710ab02add"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Jones",
+          "emailId": "david.taylor@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2001,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2013,
+              "to": 2019,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "C++",
+          "React",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "2aa4e7a6-266a-43d5-885f-2a249df83e86"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Taylor",
+          "emailId": "emily.taylor@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2017,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2011,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2015,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Senior"
+      ],
+      "skills": [
+          "React",
+          "Angular",
+          "C++",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "e0bc3205-dee8-4e74-aa3b-b1c1256449d5"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Wilson",
+          "emailId": "jane.smith@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2008,
+              "to": 2022,
+              "level": "PhD"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2003,
+              "to": 2020,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2005,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Senior"
+      ],
+      "skills": [
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "09d6036c-845e-432f-9171-d2a991dd2f33"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Jones",
+          "emailId": "alice.taylor@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2001,
+              "to": 2022,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Senior",
+          "Intern"
+      ],
+      "skills": [
+          "React",
+          "C#",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "0588003b-16db-4e87-9f3c-4fc217acf247"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Davis",
+          "emailId": "david.davis@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2006,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2015,
+              "to": 2019,
+              "level": "BSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2011,
+              "to": 2021,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Intern",
+          "Junior"
+      ],
+      "skills": [
+          "JavaScript",
+          "Angular",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "47927125-ce47-42d4-8a3d-fbc8bd9ead3e"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Davis",
+          "emailId": "david.johnson@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2000,
+              "to": 2020,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "New Grad",
+          "Experienced"
+      ],
+      "skills": [
+          "Angular",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "a4080b49-a62e-42e0-ab48-e18315e9aee3"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Wilson",
+          "emailId": "bob.brown@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2009,
+              "to": 2021,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2003,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2012,
+              "to": 2023,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "Vue",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "f235349a-a209-438d-890f-51246cffe5be"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Smith",
+          "emailId": "alice.doe@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2015,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2016,
+              "to": 2021,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "7e2e400f-5ffd-41ef-9982-fdf391842e1a"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Davis",
+          "emailId": "emily.smith@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2016,
+              "to": 2022,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "d76e43c6-cf22-47ca-9134-c9aa40ba597a"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Davis",
+          "emailId": "john.davis@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2005,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2014,
+              "to": 2020,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "New Grad"
+      ],
+      "skills": [
+          "Java",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "ab2906a9-e16b-4a1b-835c-cd8094e831ef"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Jones",
+          "emailId": "david.doe@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2015,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2017,
+              "to": 2019,
+              "level": "MSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2010,
+              "to": 2020,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Junior"
+      ],
+      "skills": [
+          "Java",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "dcde4e3f-0428-4a80-abe7-96f86434522a"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Taylor",
+          "emailId": "bob.doe@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2000,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2017,
+              "to": 2019,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "New Grad",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "42b6f1a6-01cf-46b6-9f9b-2e6aa24c633e"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Johnson",
+          "emailId": "david.wilson@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2015,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2013,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2005,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "Java",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "57588d15-0b31-4d4e-a1be-466bbd3e07e6"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Wilson",
+          "emailId": "sarah.smith@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2008,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "MIT",
+              "from": 2017,
+              "to": 2020,
+              "level": "MSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2018,
+              "to": 2023,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Experienced",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "6d7546b6-825d-4c7f-a191-c87275d75fb8"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Taylor",
+          "emailId": "alice.jones@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2018,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Intern"
+      ],
+      "skills": [
+          "Python",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "1ccd06cc-e460-4816-89d2-275f9b09db50"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Wilson",
+          "emailId": "john.wilson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2011,
+              "to": 2023,
+              "level": "MSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2006,
+              "to": 2021,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Experienced"
+      ],
+      "skills": [
+          "React",
+          "Angular",
+          "Java",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "c0e5a2ca-bffe-4f3b-b1ff-fa4390a11dae"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Doe",
+          "emailId": "jane.jones@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2001,
+              "to": 2022,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "Python",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "a48f43ea-085e-4fc2-a657-b272179040d8"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Wilson",
+          "emailId": "michael.jones@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2016,
+              "to": 2020,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2011,
+              "to": 2020,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2001,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Mid-Level"
+      ],
+      "skills": [
+          "React",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "9f5a3881-0234-4325-812f-635d13d78844"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Johnson",
+          "emailId": "john.johnson@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2017,
+              "to": 2020,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "280f513a-ac35-48f6-9610-f3e2409d12d2"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Brown",
+          "emailId": "michael.wilson@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2005,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2003,
+              "to": 2021,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2009,
+              "to": 2023,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "5ab8577e-28a9-47df-9cc8-723385ca35cd"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Taylor",
+          "emailId": "john.doe@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2001,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "Java",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "13455332-b0b5-4d44-8eb4-e3fec9412d6f"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Taylor",
+          "emailId": "john.davis@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2000,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2009,
+              "to": 2022,
+              "level": "BSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2008,
+              "to": 2022,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Mid-Level"
+      ],
+      "skills": [
+          "React",
+          "C++",
+          "Vue",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "6ebcf51d-8074-4ee1-9ce6-c6af5a79b2c8"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Jones",
+          "emailId": "bob.jones@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2018,
+              "to": 2021,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "Java",
+          "React",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "84db32d5-2f57-4f4e-bfec-db57dba6af23"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Wilson",
+          "emailId": "david.brown@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2003,
+              "to": 2023,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2006,
+              "to": 2019,
+              "level": "MSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2018,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Senior",
+          "Intern"
+      ],
+      "skills": [
+          "C++",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "4ac52dfe-4c2b-4f09-8e5c-c2e6a1282bcc"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Johnson",
+          "emailId": "david.wilson@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2001,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2014,
+              "to": 2023,
+              "level": "BSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2003,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "React",
+          "C++",
+          "Angular",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "2c1e4e52-9b1c-493d-9c2d-d8d462a9af7e"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Wilson",
+          "emailId": "jane.doe@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2013,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2010,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2012,
+              "to": 2020,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "Java",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "20c7e957-b997-469c-bb21-1a51c817d343"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Wilson",
+          "emailId": "sarah.wilson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2014,
+              "to": 2023,
+              "level": "BSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2005,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Intern"
+      ],
+      "skills": [
+          "Angular",
+          "C#",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "3335fe28-837d-4faa-826a-77c1d1693f27"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Brown",
+          "emailId": "john.brown@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2007,
+              "to": 2022,
+              "level": "BSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2001,
+              "to": 2019,
+              "level": "BSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2021,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "New Grad"
+      ],
+      "skills": [
+          "JavaScript",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "ed3760bb-97d5-42dd-af87-b95dd92ea773"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Smith",
+          "emailId": "john.taylor@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2004,
+              "to": 2019,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2017,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2013,
+              "to": 2020,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "New Grad"
+      ],
+      "skills": [
+          "Java",
+          "JavaScript",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "ecb17fa0-9ca7-4ba3-890d-03d94cd35968"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Taylor",
+          "emailId": "bob.taylor@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2012,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2018,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2016,
+              "to": 2022,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "44efdc70-c054-4d6e-afe6-d679bc405a41"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Brown",
+          "emailId": "jane.jones@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2017,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2016,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "Angular",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "334c1125-966a-4aa4-9e3c-e610f54c787e"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Doe",
+          "emailId": "emily.wilson@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2015,
+              "to": 2020,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Junior"
+      ],
+      "skills": [
+          "C++",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "3beb7018-08ec-4d54-a9da-fd056fb28356"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Smith",
+          "emailId": "john.smith@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2013,
+              "to": 2022,
+              "level": "BSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2011,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2008,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "Python",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "51c4a2fb-17fd-4137-b868-5c5eae8998cf"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Smith",
+          "emailId": "emily.johnson@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2006,
+              "to": 2021,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Experienced"
+      ],
+      "skills": [
+          "Java",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "a2d3d271-906f-4a02-a4e9-a2413a9e6864"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Taylor",
+          "emailId": "jane.johnson@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2013,
+              "to": 2023,
+              "level": "Diploma"
+          },
+          {
+              "institution": "MIT",
+              "from": 2009,
+              "to": 2020,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Experienced"
+      ],
+      "skills": [
+          "Python",
+          "Vue",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "84a96247-837c-4e19-8b34-586e509ed734"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Johnson",
+          "emailId": "sarah.davis@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2012,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2020,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2014,
+              "to": 2022,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "New Grad",
+          "Junior"
+      ],
+      "skills": [
+          "React",
+          "C#",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "f48a84f0-56b8-4282-af33-6f5b2f5f550d"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Jones",
+          "emailId": "john.johnson@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2007,
+              "to": 2020,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2012,
+              "to": 2020,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "1cc669d4-42da-4e8e-b612-b82cca03b757"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Smith",
+          "emailId": "jane.davis@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2006,
+              "to": 2019,
+              "level": "PhD"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2005,
+              "to": 2021,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "aeab7a86-6d4d-4342-b026-3517c0252d2b"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Wilson",
+          "emailId": "david.brown@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2001,
+              "to": 2019,
+              "level": "BSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2006,
+              "to": 2023,
+              "level": "PhD"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2006,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Mid-Level",
+          "New Grad"
+      ],
+      "skills": [
+          "C++",
+          "React",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "6d0a99e2-24c8-431c-9944-05b1c171c1bf"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Davis",
+          "emailId": "alice.smith@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2015,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2016,
+              "to": 2023,
+              "level": "BSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2012,
+              "to": 2023,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "New Grad",
+          "Senior"
+      ],
+      "skills": [
+          "Java",
+          "Python",
+          "Vue",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "7dd76770-b6ab-4b96-9c2a-0964b0697fd9"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Taylor",
+          "emailId": "sarah.doe@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2007,
+              "to": 2019,
+              "level": "BSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2002,
+              "to": 2020,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "Vue",
+          "React",
+          "C#",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "692b826a-3522-468f-b17c-29bc2183bab0"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Taylor",
+          "emailId": "sarah.davis@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2011,
+              "to": 2020,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "Vue",
+          "C++",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "4fce9d59-0d72-42ec-895e-dd6ef02a101a"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Doe",
+          "emailId": "bob.taylor@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2009,
+              "to": 2023,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Mid-Level",
+          "Experienced"
+      ],
+      "skills": [
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "19d13af7-04f8-4e9c-a341-de67277de0e4"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Johnson",
+          "emailId": "jane.davis@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2005,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2021,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "React",
+          "C#",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "af20e1f5-a2f5-4357-908b-589f42ded0c0"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Brown",
+          "emailId": "michael.taylor@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2001,
+              "to": 2020,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Experienced",
+          "Senior"
+      ],
+      "skills": [
+          "Python",
+          "Vue",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "8542e896-2e42-45d1-bcf6-3c0d34d56425"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Wilson",
+          "emailId": "john.wilson@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2009,
+              "to": 2021,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Experienced",
+          "Mid-Level"
+      ],
+      "skills": [
+          "React",
+          "JavaScript",
+          "Java",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "8fcc2233-4ca0-4ffb-8ff8-62929f5b1945"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Brown",
+          "emailId": "emily.brown@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2010,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2007,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Senior"
+      ],
+      "skills": [
+          "Java",
+          "C#",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "08274f5e-aee9-45ae-9f93-6866aade9e23"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Taylor",
+          "emailId": "michael.johnson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2000,
+              "to": 2019,
+              "level": "MSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2016,
+              "to": 2023,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "C++",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "01f238fa-5a3b-4582-a5b0-9f537fbfeb56"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Wilson",
+          "emailId": "emily.brown@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2015,
+              "to": 2022,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "f437539f-40d4-4dfb-8007-e7634113aad7"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Johnson",
+          "emailId": "david.johnson@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2007,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Mid-Level",
+          "New Grad"
+      ],
+      "skills": [
+          "React",
+          "Vue",
+          "Java",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "38b1d49e-f22d-484b-9dd1-6164d1e4cc07"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Jones",
+          "emailId": "jane.jones@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2000,
+              "to": 2020,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "New Grad",
+          "Experienced"
+      ],
+      "skills": [
+          "C++",
+          "Python",
+          "Java",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "0c794e95-6353-4559-86af-e6d22eb45196"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Jones",
+          "emailId": "emily.wilson@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2015,
+              "to": 2023,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Mid-Level"
+      ],
+      "skills": [
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "d59dcf70-9446-4b6f-9128-460d40445523"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Doe",
+          "emailId": "sarah.brown@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2008,
+              "to": 2022,
+              "level": "PhD"
+          },
+          {
+              "institution": "MIT",
+              "from": 2018,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Intern"
+      ],
+      "skills": [
+          "C#",
+          "C++",
+          "Vue",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "deb9c1a1-2dab-4209-976b-02b6f9291e56"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Taylor",
+          "emailId": "david.johnson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2019,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2003,
+              "to": 2019,
+              "level": "BSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2016,
+              "to": 2020,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "C#",
+          "JavaScript",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "0948f9dd-7852-4f9d-b639-6c1ed742005f"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Jones",
+          "emailId": "john.wilson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2017,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2010,
+              "to": 2019,
+              "level": "PhD"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2004,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Mid-Level"
+      ],
+      "skills": [
+          "Python",
+          "Vue",
+          "C#",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "55a4fb68-56cc-479e-b3b7-1fdf22555714"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Johnson",
+          "emailId": "david.wilson@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2016,
+              "to": 2022,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Senior"
+      ],
+      "skills": [
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "d6c23ab8-37be-489a-8e20-d7efa90662ab"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Davis",
+          "emailId": "jane.jones@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2006,
+              "to": 2019,
+              "level": "MSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2010,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2003,
+              "to": 2019,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "C#",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "d91f848e-d9f9-4fff-a188-7f61193a2d2b"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Johnson",
+          "emailId": "emily.smith@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2001,
+              "to": 2019,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Junior",
+          "Experienced"
+      ],
+      "skills": [
+          "Java",
+          "Vue",
+          "C#",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "c5ff8a30-76af-4ae1-aa6d-c9b31f6e15a3"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Wilson",
+          "emailId": "john.taylor@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2006,
+              "to": 2020,
+              "level": "PhD"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2018,
+              "to": 2021,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level"
+      ],
+      "skills": [
+          "Python",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "87562c6f-07fd-4f49-a786-e5be2c6272b0"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Johnson",
+          "emailId": "michael.johnson@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2021,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2003,
+              "to": 2023,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "New Grad"
+      ],
+      "skills": [
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "9d385a6d-00a3-4de0-a483-e1c8e5d67b0c"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Wilson",
+          "emailId": "alice.brown@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2016,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2011,
+              "to": 2019,
+              "level": "MSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2015,
+              "to": 2019,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Java",
+          "JavaScript",
+          "Vue",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "f3e79299-4b88-485b-8c2b-375c605d21de"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Smith",
+          "emailId": "alice.smith@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2011,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2003,
+              "to": 2020,
+              "level": "BSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2009,
+              "to": 2022,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Experienced"
+      ],
+      "skills": [
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "faa3efcc-ae94-48c9-9955-f836fb85fd37"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Doe",
+          "emailId": "bob.jones@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2000,
+              "to": 2020,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Intern"
+      ],
+      "skills": [
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "c5e1385f-1650-4d5c-b7a8-bc23164bc624"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Wilson",
+          "emailId": "jane.jones@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2018,
+              "to": 2019,
+              "level": "BSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2002,
+              "to": 2023,
+              "level": "MSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2015,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "New Grad"
+      ],
+      "skills": [
+          "Vue",
+          "JavaScript",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "54c21ed5-b891-4521-be95-4b1f44d60977"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Jones",
+          "emailId": "emily.wilson@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2012,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "New Grad"
+      ],
+      "skills": [
+          "Angular",
+          "Java",
+          "C#",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "c99c642d-9695-4d63-8259-d8c0edee6815"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Brown",
+          "emailId": "michael.smith@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2001,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2003,
+              "to": 2019,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Mid-Level",
+          "Experienced"
+      ],
+      "skills": [
+          "Vue",
+          "Python",
+          "C#",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "1cb91749-bafd-45bf-bd65-87b906810f16"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Doe",
+          "emailId": "john.brown@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2019,
+              "level": "MSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2015,
+              "to": 2019,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "Vue",
+          "C++",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "488d0fbc-8417-479c-bf7a-09ac5028dfb8"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Smith",
+          "emailId": "david.johnson@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2009,
+              "to": 2023,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "New Grad",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Python",
+          "JavaScript",
+          "Angular",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "c7d07e89-a319-47a6-8c80-2a0c06c84b62"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Jones",
+          "emailId": "sarah.doe@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2016,
+              "to": 2019,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Mid-Level"
+      ],
+      "skills": [
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "93cad867-0d1f-4464-9c14-8732f1079632"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Johnson",
+          "emailId": "jane.wilson@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2016,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2002,
+              "to": 2023,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2014,
+              "to": 2023,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "C#",
+          "Vue",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "c88fa816-e0af-45ae-96f8-c4af5db81102"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Smith",
+          "emailId": "michael.doe@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2009,
+              "to": 2023,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2019,
+              "level": "MSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2016,
+              "to": 2022,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Intern",
+          "Junior"
+      ],
+      "skills": [
+          "Python",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "6377a486-7eb3-4ba3-9119-0b617c6a553d"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Taylor",
+          "emailId": "sarah.jones@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2002,
+              "to": 2019,
+              "level": "PhD"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2008,
+              "to": 2023,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "New Grad"
+      ],
+      "skills": [
+          "JavaScript",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "666a1b4e-e4b4-4401-8f70-4f949df196b0"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Jones",
+          "emailId": "john.johnson@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2001,
+              "to": 2023,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2006,
+              "to": 2022,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2011,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "New Grad",
+          "Intern"
+      ],
+      "skills": [
+          "JavaScript",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "e49ce328-615f-4a2a-a359-dfd857b01501"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Brown",
+          "emailId": "emily.doe@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2016,
+              "to": 2019,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2003,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Mid-Level",
+          "Senior"
+      ],
+      "skills": [
+          "C#",
+          "Java",
+          "Python",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "7a4e65ce-3a6a-461f-bf65-0cb8302c8d8b"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Davis",
+          "emailId": "michael.brown@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2002,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2003,
+              "to": 2022,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Experienced"
+      ],
+      "skills": [
+          "C++",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "0ce7b32a-cc92-4ab1-97c7-35da9e3937c0"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Taylor",
+          "emailId": "alice.doe@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2016,
+              "to": 2020,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "React",
+          "Angular",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "818fa16a-0c02-4109-987f-d00d5b7f1c6f"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Jones",
+          "emailId": "alice.taylor@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2012,
+              "to": 2023,
+              "level": "PhD"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2014,
+              "to": 2020,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "dda4a9cf-c828-43d0-ab0f-523526b6230a"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Jones",
+          "emailId": "jane.brown@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2010,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2001,
+              "to": 2022,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "New Grad",
+          "Junior"
+      ],
+      "skills": [
+          "Angular",
+          "JavaScript",
+          "C#",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "4f5c601d-4f1b-4f33-bac5-4eb6cb25d0d2"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Johnson",
+          "emailId": "jane.doe@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2006,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "MIT",
+              "from": 2009,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2018,
+              "to": 2021,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Senior",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Python",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "81007115-d85e-4d76-bb44-ef1357e0b800"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Doe",
+          "emailId": "sarah.smith@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2012,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2010,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2013,
+              "to": 2020,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Senior",
+          "Experienced"
+      ],
+      "skills": [
+          "C#",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "2a09afcc-4ab9-4059-a251-2141ea401a0c"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Johnson",
+          "emailId": "michael.wilson@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2013,
+              "to": 2019,
+              "level": "PhD"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2014,
+              "to": 2022,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Mid-Level",
+          "Experienced"
+      ],
+      "skills": [
+          "Java",
+          "C#",
+          "Python",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "b1f2f7b4-7dd0-4621-b916-083676eb0591"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Jones",
+          "emailId": "john.brown@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2006,
+              "to": 2020,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2014,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "MIT",
+              "from": 2015,
+              "to": 2021,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "6f4e1ace-eb61-4e09-a08f-ebf0388c51fd"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Brown",
+          "emailId": "sarah.johnson@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2017,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2003,
+              "to": 2020,
+              "level": "PhD"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2010,
+              "to": 2022,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "9ae6c6da-968d-47aa-ad19-7d41efcecf57"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Smith",
+          "emailId": "john.davis@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2007,
+              "to": 2021,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Intern"
+      ],
+      "skills": [
+          "Angular",
+          "React",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "e119e548-4618-4009-8ffd-a52da37ba9a1"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Johnson",
+          "emailId": "alice.brown@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2007,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Junior"
+      ],
+      "skills": [
+          "JavaScript",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "4f995df5-55ae-44ef-892e-796d7e62a6b7"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Smith",
+          "emailId": "john.smith@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2011,
+              "to": 2019,
+              "level": "BSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2004,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Mid-Level",
+          "Senior"
+      ],
+      "skills": [
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "79d123f7-7892-4168-9ed4-c6b6b6dc989c"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Smith",
+          "emailId": "jane.jones@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2018,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2023,
+              "level": "PhD"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2005,
+              "to": 2020,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Junior"
+      ],
+      "skills": [
+          "React",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "f546b793-f01c-4cc2-9042-5f94e7362b76"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Johnson",
+          "emailId": "john.taylor@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2013,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2007,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Experienced"
+      ],
+      "skills": [
+          "Python",
+          "C#",
+          "Java",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "82c2e598-c726-46ee-9074-28161d5d37d9"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Jones",
+          "emailId": "sarah.jones@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2001,
+              "to": 2022,
+              "level": "PhD"
+          },
+          {
+              "institution": "MIT",
+              "from": 2017,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2001,
+              "to": 2020,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Experienced",
+          "Intern"
+      ],
+      "skills": [
+          "Angular",
+          "React",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "22892920-15d2-48ba-874a-8edfffddc7ee"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Smith",
+          "emailId": "john.brown@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2012,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2017,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "MIT",
+              "from": 2016,
+              "to": 2021,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "ce570a92-eba8-4d8c-83f0-33aaeb2ef8b3"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Doe",
+          "emailId": "john.davis@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2003,
+              "to": 2021,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Mid-Level"
+      ],
+      "skills": [
+          "JavaScript",
+          "Python",
+          "C#",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "3eebe0a9-dac5-49fb-a3e5-508f6b6444fb"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Wilson",
+          "emailId": "alice.doe@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2018,
+              "to": 2019,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "New Grad"
+      ],
+      "skills": [
+          "Java",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "c75c2f45-958b-4c60-befa-32c5b4a37c5c"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Jones",
+          "emailId": "jane.smith@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2007,
+              "to": 2019,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2018,
+              "to": 2021,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Junior"
+      ],
+      "skills": [
+          "JavaScript",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "3073f01c-e219-4c65-8b58-560a789541cc"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Doe",
+          "emailId": "david.brown@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2017,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "MIT",
+              "from": 2018,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "Angular",
+          "C#",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "805d5fb8-4a0d-4b99-87f3-ff5639960854"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Doe",
+          "emailId": "bob.wilson@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2018,
+              "to": 2023,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2007,
+              "to": 2022,
+              "level": "BSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2007,
+              "to": 2020,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "New Grad"
+      ],
+      "skills": [
+          "Java",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "42178ddf-ba55-4ee8-9d58-1daf7755be34"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Smith",
+          "emailId": "emily.jones@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2019,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2020,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "New Grad"
+      ],
+      "skills": [
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "762259dd-b978-467d-8bfb-23b2e8cd8c79"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Brown",
+          "emailId": "john.johnson@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2003,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "Angular",
+          "JavaScript",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "379d6f08-9a88-4861-bbe3-4a3d55433012"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Johnson",
+          "emailId": "david.jones@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2005,
+              "to": 2021,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Intern",
+          "Senior"
+      ],
+      "skills": [
+          "Angular",
+          "Java",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "c2240304-668f-4d8e-bd80-6d6df591ffac"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Johnson",
+          "emailId": "sarah.brown@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2020,
+              "level": "MSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2000,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2013,
+              "to": 2023,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Intern",
+          "Junior"
+      ],
+      "skills": [
+          "Angular",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "f35326c0-6544-48f3-9461-19ebcd2fe4f6"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Davis",
+          "emailId": "bob.jones@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2010,
+              "to": 2023,
+              "level": "PhD"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2010,
+              "to": 2019,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "JavaScript",
+          "Python",
+          "C++",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "4805d879-1ba9-446c-a4d0-874650fe57da"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Johnson",
+          "emailId": "alice.davis@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2006,
+              "to": 2022,
+              "level": "PhD"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2022,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Senior"
+      ],
+      "skills": [
+          "Java",
+          "Vue",
+          "Angular",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "c4a89ca2-6648-4f56-b4fc-13126f267403"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Doe",
+          "emailId": "emily.jones@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2012,
+              "to": 2020,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2015,
+              "to": 2019,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Senior"
+      ],
+      "skills": [
+          "Python",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "6582190f-35f8-4db8-a2cd-5f506139701c"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Wilson",
+          "emailId": "sarah.wilson@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2004,
+              "to": 2020,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "New Grad",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Python",
+          "C#",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "10eaef73-65ab-4885-8527-a2d900265087"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Jones",
+          "emailId": "jane.brown@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2001,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Intern",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "ff21f42d-4a2e-46a1-8d59-0c8862be7f9c"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Doe",
+          "emailId": "jane.doe@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2001,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2001,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2017,
+              "to": 2021,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "058acec4-6f52-40b8-995c-5182cd9edc5a"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Davis",
+          "emailId": "david.wilson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2015,
+              "to": 2020,
+              "level": "PhD"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2003,
+              "to": 2020,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Python",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "e53b54bf-44a1-43d8-af4e-9ac89ec62f90"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Smith",
+          "emailId": "john.smith@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2013,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2009,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2008,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Experienced"
+      ],
+      "skills": [
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "cb337975-aa34-445b-98e1-02a51ae67f93"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Brown",
+          "emailId": "david.taylor@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2010,
+              "to": 2023,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "JavaScript",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "e87cf9e4-b2d6-4f55-8710-9b53cbf949f3"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Smith",
+          "emailId": "emily.taylor@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2011,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2010,
+              "to": 2022,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "Angular",
+          "C++",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "6d14e263-efbc-41f7-8445-39d6fb549c76"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Doe",
+          "emailId": "john.brown@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2000,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2012,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2001,
+              "to": 2020,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "New Grad",
+          "Senior"
+      ],
+      "skills": [
+          "Java",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "ece079f0-86c0-4834-9276-af608f48bf98"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Brown",
+          "emailId": "emily.smith@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2013,
+              "to": 2020,
+              "level": "PhD"
+          },
+          {
+              "institution": "MIT",
+              "from": 2003,
+              "to": 2021,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Experienced"
+      ],
+      "skills": [
+          "Java",
+          "C++",
+          "C#",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "8f5444d6-b016-4039-a421-91e6f42df115"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Jones",
+          "emailId": "john.johnson@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2014,
+              "to": 2023,
+              "level": "BSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2002,
+              "to": 2019,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "New Grad"
+      ],
+      "skills": [
+          "Python",
+          "Java",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "b3de793c-513a-4bea-9cbf-6014a8487389"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Wilson",
+          "emailId": "emily.taylor@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2008,
+              "to": 2023,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2004,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Mid-Level",
+          "Senior"
+      ],
+      "skills": [
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "d4f30041-0dd8-425b-89ea-9e8890a95df5"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Taylor",
+          "emailId": "bob.smith@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2015,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Mid-Level"
+      ],
+      "skills": [
+          "C++",
+          "Vue",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "1ef1b713-b523-44c9-a95e-dce5d4ed1520"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Jones",
+          "emailId": "bob.johnson@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2005,
+              "to": 2020,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Junior",
+          "Senior"
+      ],
+      "skills": [
+          "Java",
+          "C++",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "7c88e6fa-bd83-45b1-a330-05d528e5bedc"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Davis",
+          "emailId": "emily.doe@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2002,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2009,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "MIT",
+              "from": 2001,
+              "to": 2021,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Mid-Level",
+          "Junior"
+      ],
+      "skills": [
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "9f828831-74f1-4d26-9e04-cffc405629b1"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Wilson",
+          "emailId": "sarah.brown@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2010,
+              "to": 2021,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Senior"
+      ],
+      "skills": [
+          "Java",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "f792cd8c-af1d-4837-a991-c84696575f53"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Wilson",
+          "emailId": "bob.smith@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2001,
+              "to": 2023,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2001,
+              "to": 2023,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "New Grad",
+          "Experienced"
+      ],
+      "skills": [
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "8bdfc6b8-dea8-482f-84bd-254bfbde3739"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Smith",
+          "emailId": "john.jones@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2004,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "Angular",
+          "Java",
+          "React",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "df4e5f8b-acc8-4c63-8320-cf7d341bd8ee"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Davis",
+          "emailId": "alice.johnson@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2002,
+              "to": 2020,
+              "level": "MSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2016,
+              "to": 2022,
+              "level": "BSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2000,
+              "to": 2021,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Intern"
+      ],
+      "skills": [
+          "Angular",
+          "Python",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "189e3419-c87c-419b-94f1-cded1d931603"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Smith",
+          "emailId": "john.jones@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2018,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2006,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2001,
+              "to": 2021,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "New Grad"
+      ],
+      "skills": [
+          "React",
+          "Python",
+          "C#",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "2c23823a-c1a2-4878-9f9e-1dc9276f0a7c"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Taylor",
+          "emailId": "michael.taylor@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2015,
+              "to": 2020,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Intern"
+      ],
+      "skills": [
+          "JavaScript",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "cf4b8731-9bba-48d3-9747-a3dca3843c1c"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Wilson",
+          "emailId": "michael.johnson@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2008,
+              "to": 2021,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Experienced",
+          "Mid-Level"
+      ],
+      "skills": [
+          "JavaScript",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "ee177171-58fc-4ed3-92d8-92342079e441"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Davis",
+          "emailId": "bob.wilson@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2006,
+              "to": 2019,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Python",
+          "C#",
+          "Java",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "c243d2e3-9f7c-4c3b-a1dd-0e0b725a5dc0"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Davis",
+          "emailId": "alice.taylor@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2013,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "MIT",
+              "from": 2006,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "New Grad",
+          "Junior"
+      ],
+      "skills": [
+          "JavaScript",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "3f69d592-63c4-424c-86fa-a1bca8c17584"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Davis",
+          "emailId": "jane.davis@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2016,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2014,
+              "to": 2019,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Senior",
+          "Junior"
+      ],
+      "skills": [
+          "Vue",
+          "JavaScript",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "c96dfc81-332c-466c-8da7-9bfe6d28d2a1"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Johnson",
+          "emailId": "michael.jones@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2016,
+              "to": 2023,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2001,
+              "to": 2020,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Mid-Level",
+          "Intern"
+      ],
+      "skills": [
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "b1f6aa1d-40e9-419f-9b12-fa5425d385cb"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Doe",
+          "emailId": "alice.wilson@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2014,
+              "to": 2020,
+              "level": "MSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2009,
+              "to": 2020,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "JavaScript",
+          "Python",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "7f814c8e-9020-4311-99dd-750be8123926"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Smith",
+          "emailId": "sarah.davis@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2008,
+              "to": 2023,
+              "level": "Diploma"
+          },
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Junior",
+          "Intern"
+      ],
+      "skills": [
+          "C#",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "799255c9-19de-4fd5-96a2-2d8e727b5dec"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Smith",
+          "emailId": "sarah.doe@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2018,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Senior"
+      ],
+      "skills": [
+          "C++",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "4ec5c1ca-7e55-4746-baa2-59545ffdeb27"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Taylor",
+          "emailId": "michael.brown@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2016,
+              "to": 2023,
+              "level": "PhD"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2008,
+              "to": 2022,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Mid-Level",
+          "Junior"
+      ],
+      "skills": [
+          "Vue",
+          "JavaScript",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "0a43289a-419e-49c9-85c2-de0304c15ccf"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Doe",
+          "emailId": "jane.smith@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2001,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2010,
+              "to": 2019,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Mid-Level",
+          "Senior"
+      ],
+      "skills": [
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "d0c5475c-822f-4758-9a2c-fb80c95370b1"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Davis",
+          "emailId": "jane.smith@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2003,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "MIT",
+              "from": 2012,
+              "to": 2020,
+              "level": "PhD"
+          },
+          {
+              "institution": "MIT",
+              "from": 2017,
+              "to": 2021,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Senior",
+          "Mid-Level"
+      ],
+      "skills": [
+          "C#",
+          "Python",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "67b700b8-9616-4801-8ed8-007e1e5cc921"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Taylor",
+          "emailId": "michael.smith@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2003,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2001,
+              "to": 2022,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Intern"
+      ],
+      "skills": [
+          "C#",
+          "React",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "924b80a1-2a05-492d-bc89-dc90e17964bc"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Brown",
+          "emailId": "bob.smith@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2022,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "Angular",
+          "Python",
+          "React",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "e346e51f-41a8-40d7-9ad9-37c6d1da6099"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Jones",
+          "emailId": "david.doe@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2000,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "6de2cda8-8b98-4ebe-9aed-953585d8c2ae"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Johnson",
+          "emailId": "michael.doe@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2007,
+              "to": 2023,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "Angular",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "7bf4f43c-92f8-496e-bb48-83932fc9c8a4"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Jones",
+          "emailId": "john.doe@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2007,
+              "to": 2022,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Experienced"
+      ],
+      "skills": [
+          "C++",
+          "C#",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "58ff5495-c497-4514-aae0-8c43e6628d92"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Smith",
+          "emailId": "david.johnson@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2002,
+              "to": 2021,
+              "level": "PhD"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2017,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2000,
+              "to": 2019,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "C++",
+          "Vue",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "f160ad94-b283-4228-b195-1b6faf03b4e9"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Johnson",
+          "emailId": "emily.jones@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2003,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2007,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2009,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "C++",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "7bb431df-2af5-40df-a576-3e2e736063f9"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Doe",
+          "emailId": "alice.brown@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2001,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2013,
+              "to": 2020,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Java",
+          "React",
+          "Vue",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "c3b6fdb2-d527-416c-915a-29da343a771a"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Johnson",
+          "emailId": "jane.wilson@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2002,
+              "to": 2022,
+              "level": "BSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2002,
+              "to": 2021,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2012,
+              "to": 2022,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "Junior"
+      ],
+      "skills": [
+          "Angular",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "c052b472-b3ce-41a1-ac42-eac41698e888"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Taylor",
+          "emailId": "emily.brown@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2017,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "JavaScript",
+          "C#",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "594e9d66-8665-43e2-b0e0-42d61589b474"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Taylor",
+          "emailId": "jane.wilson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2006,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "b40e9075-d9cf-4765-920e-a2f7f8f81542"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Smith",
+          "emailId": "john.davis@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2012,
+              "to": 2019,
+              "level": "MSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2000,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "512321c4-d645-48e2-8a19-10d6e090e749"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Davis",
+          "emailId": "bob.doe@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2016,
+              "to": 2020,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "C++",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "76d469e0-875a-495b-bd1b-e89e3ab389fc"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Taylor",
+          "emailId": "sarah.davis@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2006,
+              "to": 2021,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Junior"
+      ],
+      "skills": [
+          "Vue",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "7d88862c-3634-4a89-b30c-6c5f2eb9420a"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Smith",
+          "emailId": "emily.doe@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2016,
+              "to": 2019,
+              "level": "PhD"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2012,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "New Grad"
+      ],
+      "skills": [
+          "JavaScript",
+          "Vue",
+          "Angular",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "05c1c5d6-6f1c-4a4e-baac-9dabbabd3cc2"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Wilson",
+          "emailId": "bob.doe@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2014,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2000,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2001,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Mid-Level"
+      ],
+      "skills": [
+          "C++",
+          "React",
+          "Vue",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "40eb1ab4-9cde-4ba4-b200-c273a888aac2"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Smith",
+          "emailId": "michael.smith@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2015,
+              "to": 2022,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Mid-Level"
+      ],
+      "skills": [
+          "Java",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "f8f9b662-1b53-4a57-b0dd-099d356f50f9"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Smith",
+          "emailId": "emily.taylor@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2011,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2010,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "MIT",
+              "from": 2011,
+              "to": 2023,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "New Grad"
+      ],
+      "skills": [
+          "Vue",
+          "Java",
+          "JavaScript",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "24b21c0c-527d-4790-8388-b8cae44f0ada"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Davis",
+          "emailId": "john.johnson@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2010,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2007,
+              "to": 2021,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Experienced"
+      ],
+      "skills": [
+          "Java",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "1271b756-6af2-4a57-9043-d4d7423c9677"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Taylor",
+          "emailId": "jane.wilson@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2005,
+              "to": 2021,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2015,
+              "to": 2020,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "New Grad"
+      ],
+      "skills": [
+          "Python",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "7a9ca632-5358-499f-9148-d9a4de35091f"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Johnson",
+          "emailId": "michael.smith@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2002,
+              "to": 2020,
+              "level": "PhD"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2009,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "Java",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "67a00b45-e054-4715-9296-323cb042cec0"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Smith",
+          "emailId": "alice.wilson@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2000,
+              "to": 2023,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Junior",
+          "Intern"
+      ],
+      "skills": [
+          "C++",
+          "React",
+          "Vue",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "6deff5bb-c4f5-425a-b0fc-57981b3099c2"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Brown",
+          "emailId": "david.brown@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2009,
+              "to": 2021,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2003,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2018,
+              "to": 2019,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "C++",
+          "Python",
+          "Vue",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "e700b48c-04ca-44f1-a598-16ecd76e9e5c"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Brown",
+          "emailId": "michael.davis@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2017,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2023,
+              "level": "PhD"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2002,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "New Grad"
+      ],
+      "skills": [
+          "Java",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "eb0153f0-48d4-4b0f-90e0-ad6409ddc6ef"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Smith",
+          "emailId": "john.wilson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2015,
+              "to": 2022,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "JavaScript",
+          "Vue",
+          "Angular",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "fd359536-7af1-4a96-a574-6f1e5cf1e1de"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Doe",
+          "emailId": "david.johnson@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2003,
+              "to": 2023,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level"
+      ],
+      "skills": [
+          "C#",
+          "Java",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "3b319a58-ec9e-47fe-ac46-a13d77761370"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Johnson",
+          "emailId": "alice.davis@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2005,
+              "to": 2023,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Experienced",
+          "New Grad"
+      ],
+      "skills": [
+          "C#",
+          "React",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "f64b9beb-4611-4c96-a24c-434b906f2460"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Doe",
+          "emailId": "david.johnson@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2004,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Experienced"
+      ],
+      "skills": [
+          "C++",
+          "Vue",
+          "JavaScript",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "6d836569-a38b-4bce-8894-d2c40a2b4dfa"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Davis",
+          "emailId": "david.smith@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2004,
+              "to": 2023,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2012,
+              "to": 2021,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2017,
+              "to": 2022,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Intern"
+      ],
+      "skills": [
+          "Angular",
+          "React",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "2859ebca-85a7-4b4d-82b8-e5994e8fc684"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Taylor",
+          "emailId": "david.johnson@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2000,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2016,
+              "to": 2022,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Senior"
+      ],
+      "skills": [
+          "Vue",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "41a23f7e-6422-44d8-baac-17a27e86e09f"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Jones",
+          "emailId": "alice.jones@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2016,
+              "to": 2019,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2015,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "New Grad",
+          "Intern"
+      ],
+      "skills": [
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "c245eaeb-df16-4d5b-8396-785d22a927bd"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Davis",
+          "emailId": "emily.brown@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2006,
+              "to": 2019,
+              "level": "BSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2017,
+              "to": 2023,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2000,
+              "to": 2019,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Mid-Level"
+      ],
+      "skills": [
+          "JavaScript",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "903090f5-9a06-4cfb-a029-7f9bcd80d3a2"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Taylor",
+          "emailId": "alice.johnson@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2009,
+              "to": 2019,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Senior",
+          "New Grad"
+      ],
+      "skills": [
+          "C++",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "a873ff50-985c-43f6-9383-4c8cc850086d"
+  },
+  {
+      "personalInformation": {
+          "firstName": "John",
+          "lastName": "Davis",
+          "emailId": "jane.doe@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2013,
+              "to": 2022,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "0185b27f-119d-40ff-82be-9db41b424dea"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Smith",
+          "emailId": "jane.davis@example.com",
+          "currentResidence": "Phoenix"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2018,
+              "to": 2023,
+              "level": "MSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2017,
+              "to": 2023,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "0f54dfd0-d951-4fb5-9cc3-ee80e751854e"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Doe",
+          "emailId": "bob.jones@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2012,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2002,
+              "to": 2023,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2015,
+              "to": 2020,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Intern",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "3fff416c-8215-477c-b1d3-7dbc067584b2"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Wilson",
+          "emailId": "jane.doe@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2004,
+              "to": 2021,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "New Grad"
+      ],
+      "skills": [
+          "React",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "1a4eabc0-2503-4407-8efe-3c7aa734f16b"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Brown",
+          "emailId": "bob.doe@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2013,
+              "to": 2021,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2009,
+              "to": 2020,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "Python",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "1782f4f9-b0f2-4015-b15e-f61362406704"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Johnson",
+          "emailId": "john.taylor@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2014,
+              "to": 2019,
+              "level": "BSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2018,
+              "to": 2023,
+              "level": "BSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2003,
+              "to": 2021,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Experienced"
+      ],
+      "skills": [
+          "React",
+          "Vue",
+          "Python",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "87be11f5-983d-4843-a438-9ad8c47f803c"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Taylor",
+          "emailId": "emily.doe@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2011,
+              "to": 2022,
+              "level": "MSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2001,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2009,
+              "to": 2020,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Junior",
+          "Senior"
+      ],
+      "skills": [
+          "C++",
+          "Vue",
+          "Angular",
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "7f993670-e400-4248-8356-147263bf1fc2"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Wilson",
+          "emailId": "emily.johnson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2012,
+              "to": 2020,
+              "level": "BSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2010,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior"
+      ],
+      "skills": [
+          "React",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "73e0753f-6a3f-4f83-b4e0-591532b9f4d1"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Jones",
+          "emailId": "bob.smith@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2012,
+              "to": 2019,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2008,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2007,
+              "to": 2021,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "New Grad"
+      ],
+      "skills": [
+          "JavaScript",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "8b184c75-b2d5-4ec3-b110-c36bed44d4ad"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Wilson",
+          "emailId": "david.taylor@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2017,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2001,
+              "to": 2023,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Intern"
+      ],
+      "skills": [
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "18b7cca1-a3bf-4284-a7e9-f3b20b877a84"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Michael",
+          "lastName": "Johnson",
+          "emailId": "john.brown@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2012,
+              "to": 2023,
+              "level": "PhD"
+          },
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2023,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Intern",
+          "Junior"
+      ],
+      "skills": [
+          "C++",
+          "Python",
+          "React",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "3ea22650-449d-42f8-9cd5-fc3c43a6164e"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Jones",
+          "emailId": "jane.smith@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2017,
+              "to": 2020,
+              "level": "PhD"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2000,
+              "to": 2019,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Junior",
+          "Senior"
+      ],
+      "skills": [
+          "C++",
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "9b8c8ea2-5f58-403d-9a1a-fa434d8089ca"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Smith",
+          "emailId": "david.doe@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2015,
+              "to": 2021,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Intern",
+          "New Grad",
+          "Experienced"
+      ],
+      "skills": [
+          "JavaScript",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "4cc6d5f2-7cc6-422e-8796-0f3905f44f79"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Wilson",
+          "emailId": "jane.johnson@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2017,
+              "to": 2019,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2009,
+              "to": 2019,
+              "level": "BSc"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2002,
+              "to": 2022,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "Java",
+          "Python",
+          "React",
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "1b085bd9-03bd-42ce-84de-eb74ab7e6385"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Doe",
+          "emailId": "jane.wilson@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2010,
+              "to": 2019,
+              "level": "MSc"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2007,
+              "to": 2020,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Senior"
+      ],
+      "skills": [
+          "React",
+          "Python",
+          "Angular",
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "a70639df-73d7-4cfb-afe0-909c2fe4dd2b"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Jones",
+          "emailId": "emily.davis@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2011,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2013,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2004,
+              "to": 2023,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Intern",
+          "New Grad"
+      ],
+      "skills": [
+          "Angular",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "51fbcac3-9661-44b9-ba56-d0e0dd6ee99f"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Johnson",
+          "emailId": "jane.smith@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2005,
+              "to": 2020,
+              "level": "PhD"
+          },
+          {
+              "institution": "MIT",
+              "from": 2001,
+              "to": 2020,
+              "level": "BSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2010,
+              "to": 2019,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Intern"
+      ],
+      "skills": [
+          "JavaScript"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "cc19258c-b15d-4ded-b869-4a3546951bb5"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Sarah",
+          "lastName": "Davis",
+          "emailId": "emily.taylor@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2007,
+              "to": 2021,
+              "level": "MSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2005,
+              "to": 2022,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2017,
+              "to": 2020,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "New Grad"
+      ],
+      "skills": [
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Offer",
+      "id": "8852f108-5f9c-4c79-a5f5-a6ae67dd77b6"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Johnson",
+          "emailId": "sarah.johnson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2004,
+              "to": 2023,
+              "level": "PhD"
+          },
+          {
+              "institution": "Stanford University",
+              "from": 2003,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2007,
+              "to": 2019,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Experienced"
+      ],
+      "skills": [
+          "C#",
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "3a86f809-16bf-4dfc-a358-a71910f212f6"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Doe",
+          "emailId": "jane.wilson@example.com",
+          "currentResidence": "Houston"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2001,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "MIT",
+              "from": 2016,
+              "to": 2020,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2017,
+              "to": 2022,
+              "level": "MSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "Junior"
+      ],
+      "skills": [
+          "Java",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Opportunity Browsing",
+      "id": "41011e55-c8d7-42f1-9bf1-001143e9b442"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Doe",
+          "emailId": "bob.doe@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2009,
+              "to": 2021,
+              "level": "Diploma"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "New Grad"
+      ],
+      "skills": [
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "8f1e6d1f-a423-4148-b4ee-c76d21ee70ee"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Wilson",
+          "emailId": "john.jones@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2006,
+              "to": 2022,
+              "level": "Diploma"
+          },
+          {
+              "institution": "MIT",
+              "from": 2014,
+              "to": 2019,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Intern"
+      ],
+      "skills": [
+          "React",
+          "Python",
+          "Angular",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Withdrawn",
+      "id": "93091e3d-5cd9-4b2f-8495-6b7f9b908ac2"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Bob",
+          "lastName": "Johnson",
+          "emailId": "alice.johnson@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Harvard University",
+              "from": 2015,
+              "to": 2021,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Experienced",
+          "New Grad"
+      ],
+      "skills": [
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "2307b24b-0de0-472e-a9a5-e3da9f03be0d"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Johnson",
+          "emailId": "jane.davis@example.com",
+          "currentResidence": "New York"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2002,
+              "to": 2020,
+              "level": "BSc"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2004,
+              "to": 2019,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Intern",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Java"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview I",
+      "id": "a2f31230-8b7a-4520-80c0-0412d0ee3c41"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Taylor",
+          "emailId": "sarah.brown@example.com",
+          "currentResidence": "Philadelphia"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2008,
+              "to": 2022,
+              "level": "PhD"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2011,
+              "to": 2021,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "New Grad"
+      ],
+      "skills": [
+          "C#",
+          "C++",
+          "React"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "57b149a6-ab9a-485f-b65c-b803a7dca5d5"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Emily",
+          "lastName": "Brown",
+          "emailId": "sarah.jones@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "MIT",
+              "from": 2010,
+              "to": 2023,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "Experienced"
+      ],
+      "skills": [
+          "Python"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Shortlisted",
+      "id": "b6c98d71-7e01-4e2f-87d7-fcb0c94a61ea"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Alice",
+          "lastName": "Davis",
+          "emailId": "bob.taylor@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2006,
+              "to": 2019,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Senior",
+          "Intern"
+      ],
+      "skills": [
+          "Java",
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "05a0a38c-e479-4248-974c-9ae22b1a6e49"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Davis",
+          "emailId": "david.taylor@example.com",
+          "currentResidence": "Los Angeles"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2014,
+              "to": 2023,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Princeton University",
+              "from": 2016,
+              "to": 2022,
+              "level": "Bachelor"
+          },
+          {
+              "institution": "Yale University",
+              "from": 2013,
+              "to": 2023,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Senior",
+          "Junior"
+      ],
+      "skills": [
+          "Vue"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview III",
+      "id": "c3d0280c-c65d-45de-80e4-7eb871471dc0"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Jones",
+          "emailId": "bob.taylor@example.com",
+          "currentResidence": "Chicago"
+      },
+      "education": [
+          {
+              "institution": "Stanford University",
+              "from": 2001,
+              "to": 2021,
+              "level": "BSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2011,
+              "to": 2019,
+              "level": "MSc"
+          },
+          {
+              "institution": "MIT",
+              "from": 2001,
+              "to": 2021,
+              "level": "PhD"
+          }
+      ],
+      "tag": [
+          "Junior",
+          "Senior",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Angular"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "bd6bcb41-3570-47f0-994e-189b7573fafe"
+  },
+  {
+      "personalInformation": {
+          "firstName": "Jane",
+          "lastName": "Brown",
+          "emailId": "emily.taylor@example.com",
+          "currentResidence": "San Diego"
+      },
+      "education": [
+          {
+              "institution": "Princeton University",
+              "from": 2002,
+              "to": 2023,
+              "level": "BSc"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2014,
+              "to": 2019,
+              "level": "Bachelor"
+          }
+      ],
+      "tag": [
+          "New Grad",
+          "Mid-Level"
+      ],
+      "skills": [
+          "Vue",
+          "C++"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Video Interview II",
+      "id": "e2672511-b37d-4a77-8da4-93facc117b1b"
+  },
+  {
+      "personalInformation": {
+          "firstName": "David",
+          "lastName": "Davis",
+          "emailId": "emily.johnson@example.com",
+          "currentResidence": "San Antonio"
+      },
+      "education": [
+          {
+              "institution": "Yale University",
+              "from": 2012,
+              "to": 2019,
+              "level": "Diploma"
+          },
+          {
+              "institution": "Harvard University",
+              "from": 2002,
+              "to": 2023,
+              "level": "BSc"
+          }
+      ],
+      "tag": [
+          "Mid-Level",
+          "Junior",
+          "Experienced"
+      ],
+      "skills": [
+          "C#"
+      ],
+      "profileImage": "https://loremflickr.com/320/240",
+      "interviewStage": "Applied",
+      "id": "ac380317-32b2-455e-8ce2-c0ccbdeed93d"
+  }
+]

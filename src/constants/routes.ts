@@ -1,6 +1,7 @@
 export const ROUTES = {
   LANDING: '/',
-  APPLICATIONS: '/applications',
+  CANDIDATES: '/candidates',
   REPORTS: '/reports',
   SHARED_PROFILES: '/shared-profiles',
-};
+  TEMPLATES: '/templates',
+} as const;

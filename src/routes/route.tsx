@@ -6,8 +6,12 @@ const Landing = lazy(
   () => import('../pages/Landing' /* webpackChunkName:"Landing" */)
 );
 
-const Applications = lazy(
-  () => import('../pages/Applications' /* webpackChunkName:"Applications" */)
+const Template = lazy(
+  () => import('../pages/Template' /* webpackChunkName:"Template" */)
+);
+
+const Candidates = lazy(
+  () => import('../pages/Candidates' /* webpackChunkName:"Candidates" */)
 );
 
 const Reports = lazy(
@@ -19,6 +23,10 @@ const SharedProfiles = lazy(
     import('../pages/SharedProfiles' /* webpackChunkName:"SharedProfiles" */)
 );
 
+const Templates = lazy(
+  () => import('../pages/Templates' /* webpackChunkName:"Templates" */)
+);
+
 const RouteList = (): IRoute[] => {
   return [
     {
@@ -26,8 +34,16 @@ const RouteList = (): IRoute[] => {
       path: ROUTES.LANDING,
     },
     {
-      element: Applications,
-      path: ROUTES.APPLICATIONS,
+      element: Templates,
+      path: ROUTES.TEMPLATES,
+    },
+    {
+      element: Template,
+      path: ROUTES.TEMPLATES + '/:id',
+    },
+    {
+      element: Candidates,
+      path: ROUTES.CANDIDATES,
     },
     {
       element: Reports,

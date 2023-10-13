@@ -3,10 +3,10 @@ import { createRoot } from 'react-dom/client';
 import App from './App.tsx';
 import './index.css';
 import { ConfigProvider } from 'antd';
-import colors from './constants/colors.ts';
-import { queryClient } from './lib/appConfig.ts';
+import { queryClient } from './lib/configs/appConfig.ts';
 import { QueryClientProvider } from 'react-query';
 import { BrowserRouter } from 'react-router-dom';
+import AntThemeConfig from './lib/configs/styleConfig.ts';
 
 const container = document.getElementById('root');
 
@@ -16,7 +16,7 @@ if (container) {
     <BrowserRouter>
       <React.StrictMode>
         <QueryClientProvider client={queryClient}>
-          <ConfigProvider theme={{ token: { colorPrimary: colors.primary } }}>
+          <ConfigProvider theme={AntThemeConfig}>
             <App />
           </ConfigProvider>
         </QueryClientProvider>

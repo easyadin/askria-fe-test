@@ -1,62 +1,125 @@
-import React, { useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import {
-  DesktopOutlined,
-  FileOutlined,
-  PieChartOutlined,
-  TeamOutlined,
-  UserOutlined,
+  HomeOutlined,
+  ShareAltOutlined,
+  UserSwitchOutlined,
+  LineChartOutlined,
+  RightOutlined,
+  EditOutlined,
 } from '@ant-design/icons';
-import type { MenuProps } from 'antd';
-import { Breadcrumb, Layout, Menu, theme } from 'antd';
+import type { MenuProps, SiderProps } from 'antd';
+import { Button, Flex, Image, Menu } from 'antd';
+import Sider from 'antd/es/layout/Sider';
+import { ROUTES } from '../constants/routes';
+import { useLocation, useNavigate } from 'react-router-dom';
 
-const { Header, Content, Footer, Sider } = Layout;
-
-type MenuItem = Required<MenuProps>['items'][number];
+type MenuItem = Required<MenuProps>['items'][number] & { route: string };
 
 function getItem(
   label: React.ReactNode,
   key: React.Key,
-  icon?: React.ReactNode,
-  children?: MenuItem[]
+  icon: React.ReactNode
 ): MenuItem {
   return {
     key,
     icon,
-    children,
     label,
   } as MenuItem;
 }
 
-const items: MenuItem[] = [
-  getItem('Option 1', '1', <PieChartOutlined />),
-  getItem('Option 2', '2', <DesktopOutlined />),
-  getItem('User', 'sub1', <UserOutlined />, [
-    getItem('Tom', '3'),
-    getItem('Bill', '4'),
-    getItem('Alex', '5'),
-  ]),
-  getItem('Team', 'sub2', <TeamOutlined />, [
-    getItem('Team 1', '6'),
-    getItem('Team 2', '8'),
-  ]),
-  getItem('Files', '9', <FileOutlined />),
+const topNavigationMenus: MenuItem[] = [
+  getItem('Home', 'LANDING', <HomeOutlined />),
+  getItem('Templates', 'TEMPLATES', <EditOutlined />),
+  getItem('Candidates', 'CANDIDATES', <UserSwitchOutlined />),
+  getItem('Reports', 'REPORTS', <LineChartOutlined />),
+  getItem('Shared Profiles', 'SHARED_PROFILES', <ShareAltOutlined />),
 ];
 
-const Sidebar = () => {
-  const [collapsed, setCollapsed] = useState(false);
+type Props = Partial<SiderProps> & {
+  isCollapsedInitialState: boolean;
+  showTrigger: boolean;
+  onCollapsed: (isCollapsed: boolean) => void;
+};
+
+const Sidebar = ({
+  isCollapsedInitialState,
+  showTrigger,
+  onCollapsed,
+  ...rest
+}: Props) => {
+  const location = useLocation();
+  const [collapsed, setCollapsed] = useState(isCollapsedInitialState);
+  const navigate = useNavigate();
+
+  const toggleCollapsed = () => {
+    setCollapsed(!collapsed);
+    onCollapsed(!collapsed);
+  };
+
+  const onClickMenu = (key: keyof typeof ROUTES) => {
+    navigate(ROUTES[key]);
+  };
+
+  const findSelectedKey = () => {
+    const routeKey = Object.keys(ROUTES).find(
+      (key) => ROUTES[key as keyof typeof ROUTES] === location.pathname
+    );
+    return routeKey || 'TEMPLATES';
+  };
+
+  const selectedKey = useMemo(() => {
+    return findSelectedKey();
+  }, [location.pathname]);
 
   return (
     <Sider
+      trigger={
+        showTrigger ? (
+          <Button
+            style={{
+              outline: 'none',
+              border: 'none',
+              cursor: 'pointer',
+            }}
+            onClick={toggleCollapsed}
+          >
+            <RightOutlined
+              rotate={collapsed ? 360 : 180}
+              style={{
+                fontSize: collapsed ? 16 : 24,
+              }}
+            />
+          </Button>
+        ) : null
+      }
       collapsible
       collapsed={collapsed}
-      onCollapse={(value) => setCollapsed(value)}
+      theme='light'
+      style={{
+        overflow: 'auto',
+        height: '100vh',
+        position: 'fixed',
+        left: 0,
+        top: 0,
+        bottom: 0,
+      }}
+      {...rest}
     >
-      <div className='demo-logo-vertical' />
+      <Flex justify='center'>
+        <Image
+          style={{ maxHeight: 64 }}
+          src='https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/mzwk7rkhgxoavrouests'
+          preview={false}
+          onClick={() => onClickMenu('TEMPLATES')}
+        />
+      </Flex>
+
       <Menu
-        theme='dark'
-        defaultSelectedKeys={['1']}
+        selectedKeys={[selectedKey]}
         mode='inline'
-        items={items}
+        items={topNavigationMenus}
+        style={{ border: 'none', padding: 10, marginTop: 10 }}
+        onClick={(menu: any) => onClickMenu(menu.key)}
       />
     </Sider>
   );

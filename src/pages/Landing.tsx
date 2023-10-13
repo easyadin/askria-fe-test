@@ -1,7 +1,7 @@
-import React from 'react';
+import { Layout } from 'antd';
 
 const Landing = () => {
-  return <div>Landing</div>;
+  return <Layout></Layout>;
 };
 
 export default Landing;

@@ -1,0 +1,19 @@
+.desktop-app-nav-sider {
+  @media (max-width: 767.99px) {
+    display: none;
+  }
+}
+
+#app-base-route-layout {
+  @media (max-width: 767.99px) {
+    margin-left: 0 !important;
+  }
+}
+
+.template-skeleton-image.ant-skeleton-image {
+  width: 100% !important;
+}
+
+.cover-image-card li {
+  text-align: left !important;
+}

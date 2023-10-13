@@ -1,6 +1,6 @@
 # Application Template UI Project
 
-This project involves implementing a specified API to create a UI for an application template as per the provided design. The tech stack includes React JS and TypeScript. The final submission will be a GitHub repository containing the implemented code.
+This project involves implementing a specified API to create a UI for an application template as per the provided design. The tech stack includes React JS and TypeScript.
 
 ## Live Demo
 

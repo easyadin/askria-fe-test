@@ -10,7 +10,6 @@ import ParagraphQuestion from './QuestionOptions/ParagraphQuestion';
 import Title from 'antd/es/typography/Title';
 import ChoiceQuestion from './QuestionOptions/ChoiceQuestion';
 import YesNoQuestion from './QuestionOptions/YesNoQuestion';
-import VideoQuestion from './QuestionOptions/VideoQuestion';
 
 type Props = IQuestion & {
   onSave: (question: IQuestion) => void;

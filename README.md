@@ -2,6 +2,11 @@
 
 This project involves implementing a specified API to create a UI for an application template as per the provided design. The tech stack includes React JS and TypeScript. The final submission will be a GitHub repository containing the implemented code.
 
+## Live Demo
+
+See the live view of the project [here](https://askria-fe-test.vercel.app/).
+
+
 ## Starting the project
 
 1. **Clone the repository**
@@ -48,6 +53,3 @@ For the application to connect to the mock server, you need to set the following
 - `VITE_APP_BASE_API_GET_ENDPOINT=/875.948497485563/programs/expedita/application-form`
 - `VITE_APP_BASE_API_PUT_ENDPOINT=/878.317361550955/programs/animi/application-form`
 
-## Live Demo
-
-See the live view of the project [here](https://askria-fe-test.vercel.app/).
